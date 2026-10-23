@@ -1,0 +1,6 @@
+# Robots.txt for Jay Balaji Trading (JBT)
+User-agent: *
+Allow: /
+
+# Direct Google & Search Engine Crawlers to Sitemap
+Sitemap: https://jaybalajitrading.com/sitemap.xml
