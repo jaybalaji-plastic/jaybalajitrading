@@ -44,7 +44,7 @@ export const SEO: React.FC<SEOProps> = ({
     }
 
     // 4. Update Canonical Link
-    const baseUrl = 'https://jaybalajitrading.com';
+    const baseUrl = 'https://jaybalajitrading.vercel.app';
     const fullCanonical = `${baseUrl}${canonicalPath.startsWith('/') ? canonicalPath : `/${canonicalPath}`}`;
     let canonical = document.querySelector('link[rel="canonical"]');
     if (!canonical) {

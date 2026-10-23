@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Direct Google & Search Engine Crawlers to Sitemap
-Sitemap: https://jaybalajitrading.com/sitemap.xml
+Sitemap: https://jaybalajitrading.vercel.app/sitemap.xml

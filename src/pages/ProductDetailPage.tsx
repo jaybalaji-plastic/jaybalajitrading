@@ -65,7 +65,7 @@ export const ProductDetailPage: React.FC = () => {
     '@type': 'Product',
     name: product.name,
     description: product.description,
-    image: `https://jaybalajitrading.com${product.image}`,
+    image: `https://jaybalajitrading.vercel.app${product.image}`,
     category: product.category,
     brand: {
       '@type': 'Brand',
